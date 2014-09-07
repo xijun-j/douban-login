@@ -8,7 +8,7 @@ Authenticate with discourse with Douban.
 
 1. 登录[豆瓣开发者中心](http://developers.douban.com/)，注册填写相关信息。
 2. 点击`我的应用`，再点击`创建新应用`。
-3. 填写相关信息。`网站域名`可填写根域名或者具体域名。如图所示。（验证所需要的标签可在 Discourse 设置中插入，验证后即可删除）
+3. 填写相关信息。`网站域名`可填写根域名或者具体域名。如图所示。（验证所需要的标签可在 Discourse 设置中插入，验证后即可删除；访问 Discourse 管理面板 - 内容 - 页面顶部）
 4. 在申请到的后台找到刚申请到的引用，概览中即可以获得`key`和`secret`，将其填入Discourse 设置中。
 
 <img src="https://meta.discourse.org/uploads/default/34525/3041f41ffcde20de.png" width="690" height="463">
