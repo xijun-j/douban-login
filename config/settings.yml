@@ -1,0 +1,5 @@
+login:
+  douban_client_id:
+    default: ''
+  douban_client_secret:
+    default: ''

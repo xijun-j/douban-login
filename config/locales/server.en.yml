@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    douban_client_id: "Client id for Douban authentication, registered at http://developers.douban.com/"
+    douban_client_secret: "Client secret for Douban authentication, registered at http://developers.douban.com/"
