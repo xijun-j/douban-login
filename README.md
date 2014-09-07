@@ -1,8 +1,8 @@
-# Douban login plugin / 豆瓣登陆插件
+# Douban login plugin / 豆瓣登录插件
 
 Authenticate with discourse with Douban.
 
-通过豆瓣登陆 Discourse。
+通过豆瓣登录 Discourse。
 
 ## Register Client Key & Secert / 申请豆瓣接入
 
