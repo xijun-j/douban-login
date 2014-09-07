@@ -1,4 +1,4 @@
-# Douban login plugin / 豆瓣登录插件
+# Douban login plugin for Discourse / Discourse 豆瓣登录插件
 
 Authenticate with discourse with Douban.
 
