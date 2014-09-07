@@ -6,12 +6,12 @@ Authenticate with discourse with Douban.
 
 ## Register Client Key & Secert / 申请豆瓣接入
 
-1. 登录[微博开发者中心](http://open.weibo.com/connect?bottomnav=1&wvr=5)，注册填写相关信息。
-2. 点击`开始接入`。
+1. 登录[豆瓣开发者中心](http://developers.douban.com/)，注册填写相关信息。
+2. 点击`我的应用`，再点击`创建新应用`。
 3. 填写相关信息。`网站域名`可填写根域名或者具体域名。如图所示。（验证所需要的标签可在 Discourse 设置中插入，验证后即可删除）
-4. 在申请到的后台找到`网站信息`的`基本信息`一栏，获得`key`和`secret`，将其填入Discourse 设置中。
+4. 在申请到的后台找到刚申请到的引用，概览中即可以获得`key`和`secret`，将其填入Discourse 设置中。
 
-<img src="https://meta.discourse.org/uploads/default/34524/32ac2f59e766ca9f.png" width="527" height="500">
+<img src="https://meta.discourse.org/uploads/default/34525/3041f41ffcde20de.png" width="690" height="463">
 
 ## Installation / 安装
 
@@ -35,9 +35,15 @@ Go to Site Settings's login category, fill in the client id and client secret.
 
 ## Issue / 问题
 
-Visit [topic on Discourse Meta](https://meta.discourse.org/t/weibo-login-plugin/19735) or [GitHub Issues](https://github.com/fantasticfears/weibo-login/issues).
+Visit [topic on Discourse Meta](https://meta.discourse.org/t/douban-login-plugin/19736) or [GitHub Issues](https://github.com/fantasticfears/douban-login/issues).
 
-访问[Discourse Meta上的主题](https://meta.discourse.org/t/weibo-login-plugin/19735)或[GitHub Issues](https://github.com/fantasticfears/weibo-login/issues)。
+访问[Discourse Meta上的主题](https://meta.discourse.org/t/douban-login-plugin/19736)或[GitHub Issues](https://github.com/fantasticfears/douban-login/issues)。
+
+<img src="https://meta.discourse.org/uploads/default/34526/05ece4662bfe0350.png" width="632" height="500">
+
+<img src="https://meta.discourse.org/uploads/default/34527/fb76e5c6a0e65f66.png" width="690" height="316">
+
+<img src="https://meta.discourse.org/uploads/default/34529/2b2e8e58609dc18f.png" width="690" height="482">
 
 ## Changelog
 
